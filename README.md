@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @korukuro
+- 👋 Hi, I’m Siddharth
 - 👀 I’m interested in Development
 - 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on ...
